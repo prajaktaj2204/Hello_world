@@ -1,3 +1,3 @@
 #This is python code to display"hello world"
 print["hello world"]
-print[foss practical on 
+print[this is a foss practical]
